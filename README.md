@@ -35,7 +35,6 @@ src/
         │   └── …                   # Painéis visuais como setor e painel principal
         └── button/
             └── …                  # Botões customizados
-s
 
 ---
 

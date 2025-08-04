@@ -90,10 +90,6 @@ Suporte a níveis de dificuldade
 
 Validação em tempo real
 
-Timer para cronometrar a resolução
-
-Salvamento e carregamento de partidas
-
 ![Sudoku](/sudoku.png)
 
 # Autor

@@ -76,7 +76,7 @@ Timer para cronometrar a resolução
 Salvamento e carregamento de partidas
 
 📸 Captura de Tela
-!()
+!(sudoku.png)
 
 👨‍💻 Autor
 Desenvolvido por Felipe (@felkj)

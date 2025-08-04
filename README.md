@@ -78,7 +78,7 @@ Salvamento e carregamento de partidas
 
 ![Sudoku](/sudoku.png)
 
-👨‍💻 # Autor
+# Autor
 
 Desenvolvido por Felipe (@felkj)
 Estudante de Análise e Desenvolvimento de Sistemas e entusiasta em desenvolvimento web e jogos com boas narrativas.

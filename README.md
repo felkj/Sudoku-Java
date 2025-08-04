@@ -17,26 +17,26 @@ Este é um projeto de Sudoku desenvolvido em **Java**, utilizando **Swing** para
 
 ## 📦 Estrutura do Projeto
 
+```
 src/
 └── br/com/felkj/
-    ├── Main.java                    # Classe principal para executar o jogo
+    ├── Main.java                  # Classe principal para executar o jogo
     ├── model/
-    │   └── Space.java              # Representação de uma célula do tabuleiro
+    │   └── Space.java             # Representação de uma célula do tabuleiro
     ├── service/
-    │   └── BoardService.java       # Lógica do jogo, verificação de status, reset, etc.
-    ├── ui/custom/
+    │   └── BoardService.java      # Lógica do jogo, verificação de status, reset, etc.
+    └── ui/custom/
         ├── frame/
-        │   └── MainFrame.java      # Janela principal
+        │   └── MainFrame.java     # Janela principal
         ├── screen/
-        │   └── MainScreen.java     # Tela principal do jogo
+        │   └── MainScreen.java    # Tela principal do jogo
         ├── input/
-        │   └── NumberText.java     # Campo de entrada para os números
+        │   └── NumberText.java    # Campo de entrada para os números
         ├── panel/
-        │   └── …                   # Painéis visuais como setor e painel principal
+        │   └── …                  # Painéis visuais como setor e painel principal
         └── button/
-            └── …                  # Botões customizados
-
----
+            └── …                 # Botões customizados
+```
 
 ## 🛠️ Tecnologias e Conceitos Usados
 

@@ -31,10 +31,6 @@ src/
 │ ├── panel/… # Painéis visuais como setor e painel principal
 │ └── button/… # Botões customizados
 
-yaml
-Copiar
-Editar
-
 ---
 
 ## 🛠️ Tecnologias e Conceitos Usados
@@ -54,8 +50,8 @@ Editar
 git clone https://github.com/seu-usuario/sudoku-java.git
 cd sudoku-java/src
 ```
-```bash
 Compile os arquivos:
+```bash
 javac br/com/felkj/Main.java br/com/felkj/**/*.java
 ```
 Execute o programa:
@@ -76,7 +72,7 @@ Timer para cronometrar a resolução
 Salvamento e carregamento de partidas
 
 📸 Captura de Tela
-!(sudoku.png)
+![Sudoku](/sudoku.png)
 
 👨‍💻 Autor
 Desenvolvido por Felipe (@felkj)
